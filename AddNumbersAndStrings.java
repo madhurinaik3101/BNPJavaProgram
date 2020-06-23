@@ -1,3 +1,4 @@
+//Shows Error that reference to add is ambiguous when there are zero parameters.
 class AddNumbersAndStrings{
 	int total;
 	void add(int...numbers){
